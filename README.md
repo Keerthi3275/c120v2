@@ -1,1 +1,1 @@
-# c120v2
+# PRO-C120-Reference-Code
